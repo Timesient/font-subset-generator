@@ -1,0 +1,19 @@
+{
+  "name": "font-subset-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Timesient",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "fonteditor-core": "^2.1.11",
+    "ttf2woff2": "^5.0.0"
+  }
+}
