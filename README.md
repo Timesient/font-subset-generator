@@ -23,4 +23,4 @@
 - [misans](https://github.com/dsrkafuu/misans)
 
 ## License
-[GPL-3.0](https://github.com/Timesient/font-subset-generator/blob/main/README.md)
+[GPL-3.0](https://github.com/Timesient/font-subset-generator/blob/main/LICENSE)
